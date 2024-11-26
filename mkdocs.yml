@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Insidous SDK 文档
+nav:
+  - 主页: index.md
+  - 教程:
+    - 快速上手: quickstart.md
+    - 配置文件: config.md
+    - 插件: plugin.md
+  - 下载: https://github.com/insidous/insidous-sdk
+  - 案例: examples.md
+    
+  - 关于: about.md
+theme:
+  name: null
+  custom_dir: 'cinder'
